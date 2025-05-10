@@ -1,0 +1,4 @@
+pandas==2.2
+matplotlib==3.9
+plotly==6.0
+# sqlite=3.45  # ← Render 上不需要這行，可以移除，Python 內建
