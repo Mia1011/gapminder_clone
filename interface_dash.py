@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import dash
 from dash import Dash, dcc, html, Input, Output, callback
+import os
 
 # 引入CSS樣式表，易於開發Dash的互動式網頁，是Plotly的官方開源庫
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -118,4 +119,5 @@ def update_gdp(clickData):
     return create_lex_graph(dff, title)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(host="0.0.0.0", port=port)
