@@ -1,7 +1,7 @@
-# 練習專案一：兩百個國家、兩百年、四分鐘
+200 Countries, 200 Years, 4 Minutes
 
 ## 簡介
-這個專案「兩百個國家、兩百年、四分鐘」復刻了名聞遐邇的 [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY) 資料視覺化，我們使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `matplotlib` 進行概念驗證，最後以 `plotly.express` 做出成品。
+這個專案復刻的是名聞遐邇的 [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY) 資料視覺化，我用 `pandas` 與 `sqlite3` 建立資料庫，並採用 `matplotlib` 進行概念驗證，最後以 `plotly.express` 做出成品。
 
 
 ## 如何重現
