@@ -1,7 +1,7 @@
 # 200 Countries, 200 Years, 4 Minutes
 
 ## Description
-This project is a recreation of the renowned data visualization&#151[Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY) . I used `pandas` and `sqlite3` to build the database, conducted a proof of concept using `matplotlib`, and finally recreated the visualization with `plotly.express`. 
+This project is a recreation of the renowned data visualization&#151;[Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY) . I used `pandas` and `sqlite3` to build the database, conducted a proof of concept using `matplotlib`, and finally recreated the visualization with `plotly.express`. 
 
 
 ## How to run
