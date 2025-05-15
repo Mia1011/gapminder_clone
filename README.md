@@ -1,4 +1,4 @@
-200 Countries, 200 Years, 4 Minutes
+# 200 Countries, 200 Years, 4 Minutes
 
 ## 簡介
 這個專案復刻的是名聞遐邇的 [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY) 資料視覺化，我用 `pandas` 與 `sqlite3` 建立資料庫，並採用 `matplotlib` 進行概念驗證，最後以 `plotly.express` 做出成品。
