@@ -3,6 +3,8 @@
 ## Discription
 I further advanced the visualization into an interactive dashboard with `Dash`, and then used `Render` for deployment. 
 
+<img src="gapminder_interactive.png" alt="gapminder_interactive" width="600">
+
 ## Demo
 Check the dashboard [here](https://gapminder-clone-interface.onrender.com). There will be a few seconds' wait since I didn't pay for it XP. 
 
