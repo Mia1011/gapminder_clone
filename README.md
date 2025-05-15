@@ -5,7 +5,7 @@ This project is a recreation of the renowned [Hans Rosling's 200 Countries, 200 
 
 
 ## How to run
-- Install [Miniconda](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY)
+- Install [Miniconda](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY). 
 
 - Download the project files and make sure the four CSV files are in the `data/` folder within your working directory.
 
@@ -13,7 +13,8 @@ This project is a recreation of the renowned [Hans Rosling's 200 Countries, 200 
 ```shell
 conda env create -f environment.yml -n <your_env_name>
 ```
-Then activate the environment: 
+
+- Activate the environment: 
 ```shell
 conda activate <your_env_name>
 ```
@@ -23,8 +24,7 @@ conda activate <your_env_name>
 python create_gapminder_db.py
 ```
 
-- Finally, run the visulization script:
+- Finally, run the following to generate `gapminder_clone.html`:
 ```shell
 python plot_with_px.py
 ```
-This will generate `gapminder_clone.html`.
