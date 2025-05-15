@@ -3,8 +3,7 @@
 ## Description
 This project is a recreation of the renowned data visualization &mdash; [Hans Rosling's *200 Countries, 200 Years, 4 Minutes*](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY). I used `pandas` and `sqlite3` to build the database, conducted a proof of concept using `matplotlib`, and finally recreated the visualization with `plotly.express`. 
 
-<img src="gapminder.gif" alt="gapminder gif" width="300">
-<img src="gapminder.png" alt="gapminder png" width="300">
+<img src="gapminder.gif" alt="gapminder gif" height="300"><img src="gapminder.png" alt="gapminder png" height="300">
 
 ## How to run
 - Install [Miniconda](https://youtu.be/jbkSRLYSojo?si=J721nOUK5bfS5ugY). 
